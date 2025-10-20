@@ -32,5 +32,6 @@ The objective is to provide a secure, scalable, and efficient digital environmen
 ## 👨‍💻 Author
 **Youssef Chbiki**  
 Specialized Technician in Digital Infrastructures  
+youssefchbikim@gmail.com
 [LinkedIn](https://www.linkedin.com/in/youssef-chbiki)  
 📍 Essaouira, Morocco
