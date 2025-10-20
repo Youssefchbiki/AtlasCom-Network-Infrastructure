@@ -22,3 +22,15 @@ The objective is to provide a secure, scalable, and efficient digital environmen
 *(Insert your network diagram here — for example, a screenshot or image file named `network_topology.png`)*
 
 ## 📂 Project Structure
+
+## 🔐 Security Recommendations
+- VLAN isolation between departments  
+- Strong password policies  
+- VPN for remote connections  
+- Regular backups and patch management  
+
+## 👨‍💻 Author
+**Youssef Chbiki**  
+Specialized Technician in Digital Infrastructures  
+[LinkedIn](https://www.linkedin.com/in/youssef-chbiki)  
+📍 Essaouira, Morocco
